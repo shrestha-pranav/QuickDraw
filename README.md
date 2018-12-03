@@ -17,6 +17,8 @@ Below are details for each of the Jupyter notebooks in order of clarity and impo
 | cnn-rnn | MobileNet + LSTM model|
 | wavenet | Implements the WaveNet architecture |
 | mobilenet50epochs | Test run for Dropout vs recognized |
+| autoencoder | Run autoencoders and variational autoencoders |
+| ensemble | Construct ensemble of trained models |
 
 # Training Model visualizations
 
